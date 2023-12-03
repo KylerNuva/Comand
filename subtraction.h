@@ -1,4 +1,4 @@
 #ifndef SUBTRACTION
 #define SUBTRACTION
-int subtraction (int a, int b);
+double subtraction (double a, double b);
 #endif // SUBTRACTION
