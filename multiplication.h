@@ -1,4 +1,4 @@
 #ifndef MULTIPLICATION
 #define MULTIPLICATION
-float multiplication(float a, float b);
+double multiplication(double a, double b);
 #endif // MULTIPLICATION

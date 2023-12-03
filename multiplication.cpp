@@ -1,4 +1,4 @@
 #include <multiplication.h>
-float multiplication(float a, float b) {
+float multiplication(double a, double b) {
     return a*b;
 }

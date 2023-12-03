@@ -1,8 +1,5 @@
 #include <devision.h>
-float devision(float a, float b) {
-    if (b==0) {
-        cout << "Devision by zero";
-        return inf;
-    }
+double devision(double a, double b) {
+
     return a/b;
 }
